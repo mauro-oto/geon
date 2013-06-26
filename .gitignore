@@ -1,3 +1,4 @@
 .idea
 coverage
 Gemfile.lock
+geon*.gem
