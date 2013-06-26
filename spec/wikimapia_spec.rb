@@ -10,7 +10,7 @@ describe 'My behaviour' do
 
     wikimapia = Geon::Wikimapia.new(loader, @key)
 
-    places = wikimapia.place_getnearest(lat: 55.814447, lon: 37.626651)
+    places = wikimapia.place_getnearest(55.814447, 37.626651)
 
 
     expected = {

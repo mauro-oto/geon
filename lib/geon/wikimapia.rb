@@ -45,7 +45,10 @@ module Geon
       @downloader, @service_key = downloader, service_key
     end
 
-    def place_getnearest(lat: 0.0, lon: 0.0, service_key: @service_key)
+    # @example
+    # place_getnearest(55.753141,37.625299) #Red square
+    #
+    def place_getnearest(lat = 0.0, lon = 0.0, service_key = @service_key)
       response = @downloader.get({function: 'place.getnearest', key: service_key, lat: lat, lon: lon})
       reader   = Nokogiri::XML::Reader(response, nil, nil, Nokogiri::XML::ParseOptions::NOBLANKS)
 
