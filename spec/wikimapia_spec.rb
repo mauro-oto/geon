@@ -1,10 +1,10 @@
 require 'rspec'
-describe 'My behaviour' do
+describe 'Wikimapia' do
   before(:all) do
     @key = "XXXX"
   end
 
-  it 'should do something' do
+  it 'Parsing valid place.getnearest' do
     loader = double("Geon::HttpLoader")
     loader.stub(:get) { sample('wikimapia/place.getnearest__good.xml') }
 
