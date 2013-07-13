@@ -1,0 +1,1179 @@
+{"id": 10382143, "object_type": 1, "language_id": 1, "language_iso": "ru", "language_name": "Russian", "urlhtml": "<a class=\"wikimapia-link\" href=\"http:\/\/wikimapia.org\/10382143\/ru\/%D0%BF%D1%80%D0%BE%D1%81%D0%BF-%D0%9C%D0%B8%D1%80%D0%B0-124-%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%B0-1-11\">\u043f\u0440\u043e\u0441\u043f. \u041c\u0438\u0440\u0430, 124 \u043a\u043e\u0440\u043f\u0443\u0441\u0430 1-11<\/a>", "title": "", "description": "\u0416\u0438\u043b\u043e\u0439 \u0434\u043e\u043c \u0440\u0430\u0437\u043d\u043e\u0439 \u044d\u0442\u0430\u0436\u043d\u043e\u0441\u0442\u0438 1938-1939 \u0433\u0433. \u043f\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0438 - \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b.\n\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0437\u0434\u0430\u043d\u0438\u0439 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d \u043f\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0443 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440\u0430 \u041c. \u0424. \u0413\u0443\u043d\u0433\u0435\u0440\u0430.\n\n\u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0438\u0434\u0435\u0435\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u0430 \u0431\u044b\u043b\u043e \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u0435\u0432\u043e\u0435 \u0443\u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0448\u0438\u0432\u0430\u043d\u0438\u0435 c \u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u0435\u0439, \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0439 \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442\u0430.\n\n\u0416\u0438\u043b\u043e\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b, \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0438\u0439 \u0438\u0437 11 \u043a\u043e\u0440\u043f\u0443\u0441\u043e\u0432 \u0441 \u0447\u0435\u0440\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438\u0441\u044f \u043f\u044f\u0442\u0438- \u0438 \u0432\u043e\u0441\u044c\u043c\u0438\u044d\u0442\u0430\u0436\u043d\u044b\u043c\u0438 \u0441\u0435\u043a\u0446\u0438\u044f\u043c\u0438.", "is_building": true, "is_region": false, "is_deleted": false, "tags": [
+    {
+        "id": 44605,
+        "title": "\u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c"
+    },
+    {
+        "id": 44865,
+        "title": "\u043c\u043d\u043e\u0433\u043e\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u043d\u044b\u0439 \u0436\u0438\u043b\u043e\u0439 \u0434\u043e\u043c"
+    },
+    {
+        "id": 45001,
+        "title": "\u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b (\u0438\u0441\u0442\u043e\u0440\u0438\u0438)"
+    }
+], "parent_id": "0", "polygon": [
+    {
+        "x": 37.6397771,
+        "y": 55.8163523
+    },
+    {
+        "x": 37.639592,
+        "y": 55.8152718
+    },
+    {
+        "x": 37.6396242,
+        "y": 55.8152703
+    },
+    {
+        "x": 37.6395759,
+        "y": 55.8149794
+    },
+    {
+        "x": 37.6395357,
+        "y": 55.8149779
+    },
+    {
+        "x": 37.6393345,
+        "y": 55.8138883
+    },
+    {
+        "x": 37.63982,
+        "y": 55.8138597
+    },
+    {
+        "x": 37.6398253,
+        "y": 55.8138792
+    },
+    {
+        "x": 37.6407292,
+        "y": 55.8138295
+    },
+    {
+        "x": 37.6407105,
+        "y": 55.813712
+    },
+    {
+        "x": 37.6398253,
+        "y": 55.8137647
+    },
+    {
+        "x": 37.6398307,
+        "y": 55.8137481
+    },
+    {
+        "x": 37.6392218,
+        "y": 55.8137858
+    },
+    {
+        "x": 37.6392433,
+        "y": 55.8139214
+    },
+    {
+        "x": 37.6391548,
+        "y": 55.813926
+    },
+    {
+        "x": 37.6391923,
+        "y": 55.8141189
+    },
+    {
+        "x": 37.6391602,
+        "y": 55.8141219
+    },
+    {
+        "x": 37.639246,
+        "y": 55.8146358
+    },
+    {
+        "x": 37.6392862,
+        "y": 55.8146373
+    },
+    {
+        "x": 37.6393533,
+        "y": 55.814996
+    },
+    {
+        "x": 37.6393238,
+        "y": 55.814996
+    },
+    {
+        "x": 37.6393801,
+        "y": 55.8152733
+    },
+    {
+        "x": 37.6394042,
+        "y": 55.8152718
+    },
+    {
+        "x": 37.6394552,
+        "y": 55.8156304
+    },
+    {
+        "x": 37.6394203,
+        "y": 55.815632
+    },
+    {
+        "x": 37.6395062,
+        "y": 55.8161579
+    },
+    {
+        "x": 37.6395598,
+        "y": 55.8161549
+    },
+    {
+        "x": 37.6395873,
+        "y": 55.8163388
+    },
+    {
+        "x": 37.6396671,
+        "y": 55.8163342
+    },
+    {
+        "x": 37.6396886,
+        "y": 55.8164653
+    },
+    {
+        "x": 37.6402894,
+        "y": 55.8164322
+    },
+    {
+        "x": 37.6402894,
+        "y": 55.8164156
+    },
+    {
+        "x": 37.6411691,
+        "y": 55.8163674
+    },
+    {
+        "x": 37.641147,
+        "y": 55.8162649
+    },
+    {
+        "x": 37.6411504,
+        "y": 55.8162574
+    },
+    {
+        "x": 37.6402491,
+        "y": 55.8163011
+    },
+    {
+        "x": 37.6402545,
+        "y": 55.8163282
+    }
+], "edit_info": {
+    "user_id": 627581,
+    "user_name": "gdanovostarover",
+    "date": 1318423220,
+    "is_unbindable": null,
+    "deletion_state": false,
+    "is_in_deletion_queue": false,
+    "is_in_undeletion_queue": false
+}, "is_protected": false, "photos": [
+    {
+        "id": 545258,
+        "size": 74604,
+        "status": 0,
+        "object_id": 10382143,
+        "user_id": 65607,
+        "user_name": "Kislota",
+        "time": 0,
+        "time_str": "7 years ago",
+        "last_user_id": 65607,
+        "last_user_name": "Kislota",
+        "big_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/58_big.jpg",
+        "thumbnail_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/58_75.jpg"
+    },
+    {
+        "id": 545257,
+        "size": 63484,
+        "status": 0,
+        "object_id": 10382143,
+        "user_id": 65607,
+        "user_name": "Kislota",
+        "time": 0,
+        "time_str": "7 years ago",
+        "last_user_id": 65607,
+        "last_user_name": "Kislota",
+        "big_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/57_big.jpg",
+        "thumbnail_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/57_75.jpg"
+    },
+    {
+        "id": 545256,
+        "size": 64008,
+        "status": 0,
+        "object_id": 10382143,
+        "user_id": 65607,
+        "user_name": "Kislota",
+        "time": 0,
+        "time_str": "7 years ago",
+        "last_user_id": 65607,
+        "last_user_name": "Kislota",
+        "big_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/56_big.jpg",
+        "thumbnail_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/56_75.jpg"
+    },
+    {
+        "id": 545260,
+        "size": 92493,
+        "status": 0,
+        "object_id": 10382143,
+        "user_id": 65607,
+        "user_name": "Kislota",
+        "time": 0,
+        "time_str": "7 years ago",
+        "last_user_id": 65607,
+        "last_user_name": "Kislota",
+        "big_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/60_big.jpg",
+        "thumbnail_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/60_75.jpg"
+    },
+    {
+        "id": 545259,
+        "size": 84706,
+        "status": 0,
+        "object_id": 10382143,
+        "user_id": 65607,
+        "user_name": "Kislota",
+        "time": 0,
+        "time_str": "7 years ago",
+        "last_user_id": 65607,
+        "last_user_name": "Kislota",
+        "big_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/59_big.jpg",
+        "thumbnail_url": "http:\/\/photos.wikimapia.org\/p\/00\/00\/54\/52\/59_75.jpg"
+    }
+], "comments": [
+    {
+        "place_id": 10382143,
+        "num": 1,
+        "lang_id": 1,
+        "user_id": 327566,
+        "user_ip": 1401428091,
+        "name": "ZSerg",
+        "message": "\u0412 \u043d\u0430\u0440\u043e\u0434\u0435 \u043f\u0440\u043e\u0437\u0432\u0430\u043d \"\u0441\u0435\u0440\u044b\u043c \u0434\u043e\u043c\u043e\u043c\".\n",
+        "good": 4,
+        "bad": 0,
+        "block": false,
+        "date": 1237803416,
+        "moder_uid": 0,
+        "moder_name": "",
+        "is_deleted": false
+    },
+    {
+        "place_id": 10382143,
+        "num": 2,
+        "lang_id": 1,
+        "user_id": 0,
+        "user_ip": 1347916052,
+        "name": "Pol",
+        "message": "\u0422\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u0438 \"\u0441\u0435\u0440\u044b\u0439 \u0434\u043e\u043c\" \u043f\u0435\u0440\u0432\u044b\u0435 \u0437\u0434\u0430\u043d\u0438\u044f \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u044b \u0432 \u044d\u0442\u043e\u043c \u0440\u0430\u0439\u043e\u043d\u0435, \u043f\u0435\u0440\u0432\u044b\u0435 \u043a\u0430\u043c\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u043d\u0435\u0447\u043d\u043e))\r\n\u0432 \u043d\u0430\u0440\u043e\u0434\u0435 \u043f\u0440\u043e\u0437\u0432\u0430\u043b\u0438 \u0441\u0435\u0440\u044b\u043c.\u043f\u043e\u0442\u043e\u043c\u0443 \u043a\u0430\u043a \u0440\u0435\u0437\u043a\u043e \u0432\u044b\u0434\u0435\u043b\u044f\u043b\u0441\u044f \u043d\u0430 \u0444\u043e\u043d\u0435 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430 \u0441\u0432\u043e\u0438\u043c \u0446\u0432\u0435\u0442\u043e\u043c.",
+        "good": 3,
+        "bad": 0,
+        "block": false,
+        "date": 1245301853,
+        "moder_uid": 0,
+        "moder_name": "",
+        "is_deleted": false
+    },
+    {
+        "place_id": 10382143,
+        "num": 3,
+        "lang_id": 1,
+        "user_id": 1784071,
+        "user_ip": 1389147658,
+        "name": "Dm_V",
+        "message": "\u0426\u0432\u0435\u0442 \u0434\u043e \u043a\u043b\u043d\u0446\u0430 70-\u044b\u0445 \u0431\u044b\u043b \u043d\u0435 \u0441\u0435\u0440\u044b\u043c. \u0421\u043a\u043e\u0440\u0435\u0435, \u043f\u043e\u0447\u0442\u0438 \u0447\u0435\u0440\u043d\u044b\u0439, \u043a\u0430\u043a \u0438 \u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u0438.",
+        "good": 0,
+        "bad": 0,
+        "block": false,
+        "date": 1366800931,
+        "moder_uid": 0,
+        "moder_name": "",
+        "is_deleted": false
+    }
+], "location": {
+    "lon": 37.6401619,
+    "lat": 55.8150886,
+    "north": 55.8164653,
+    "south": 55.813712,
+    "east": 37.6411691,
+    "west": 37.6391548,
+    "housenumber": "124 \u043a\u043e\u0440\u043f\u0443\u0441\u0430 1-11",
+    "street_id": "2261",
+    "street": "\u043f\u0440\u043e\u0441\u043f. \u041c\u0438\u0440\u0430",
+    "country": "Russia",
+    "state": "Moscow",
+    "place": "Moscow",
+    "country_adm_id": 197754,
+    "gadm": [
+        {
+            "id": "1000",
+            "country": "0",
+            "level": "0",
+            "is_last_level": "0",
+            "name": "World",
+            "iso": null,
+            "type": null,
+            "translation": "\u041c\u0438\u0440 "
+        },
+        {
+            "id": "184",
+            "country": "184",
+            "level": "0",
+            "is_last_level": "0",
+            "name": "Russia",
+            "iso": null,
+            "type": null,
+            "translation": "\u0420\u043e\u0441\u0441\u0438\u044f"
+        },
+        {
+            "id": "197611",
+            "country": "184",
+            "level": "1",
+            "is_last_level": "0",
+            "name": "Moscow City",
+            "iso": null,
+            "type": null,
+            "translation": "\u041c\u043e\u0441\u043a\u0432\u0430"
+        },
+        {
+            "id": "197716",
+            "country": "184",
+            "level": "2",
+            "is_last_level": "0",
+            "name": "North-Eastern",
+            "iso": null,
+            "type": null,
+            "translation": null
+        }
+    ],
+    "city_id": "5802505",
+    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "cityguideDomain": "moscow",
+    "zoom": 16
+}, "availableLanguages": {
+    "ru": {
+        "lang_id": 1,
+        "lang_name": "Russian",
+        "object_local_slug": "%D0%BF%D1%80%D0%BE%D1%81%D0%BF-%D0%9C%D0%B8%D1%80%D0%B0-124-%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%B0-1-11",
+        "native_name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "object_url": "http:\/\/wikimapia.org\/10382143\/ru\/%D0%BF%D1%80%D0%BE%D1%81%D0%BF-%D0%9C%D0%B8%D1%80%D0%B0-124-%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%D0%B0-1-11"
+    }
+}, "similarPlaces": {
+    "4175172": {
+        "id": "4175172",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041e\u0441\u0442\u0430\u0442\u043a\u0438 \u043f\u0430\u0440\u043a\u043e\u0432\u043e\u0433\u043e \u043b\u0430\u0431\u0438\u0440\u0438\u043d\u0442\u0430",
+        "url": "http:\/\/wikimapia.org\/4175172\/ru\/%D0%9E%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%B8-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BB%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82%D0%B0",
+        "lon": 37.6656818,
+        "lat": 55.81878,
+        "distance": 1.6
+    },
+    "7338238": {
+        "id": "7338238",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041c\u0430\u0442\u043e\u0447\u043d\u044b\u0439 \u0441\u0430\u0434",
+        "url": "http:\/\/wikimapia.org\/7338238\/ru\/%D0%9C%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B4",
+        "lon": 37.6684742,
+        "lat": 55.8073138,
+        "distance": 2
+    },
+    "328": {
+        "id": "328",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0432\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440",
+        "url": "http:\/\/wikimapia.org\/328\/ru\/%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D1%86%D0%B5%D0%BD%D1%82%D1%80",
+        "lon": 37.6094198,
+        "lat": 55.8435063,
+        "distance": 3.7
+    },
+    "3608042": {
+        "id": "3608042",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041f\u0440\u043e\u0441\u044f\u043d\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0442\u0438\u043d\u0430 (\u0434\u0430\u043c\u0431\u0430)",
+        "url": "http:\/\/wikimapia.org\/3608042\/ru\/%D0%9F%D1%80%D0%BE%D1%81%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0-%D0%B4%D0%B0%D0%BC%D0%B1%D0%B0",
+        "lon": 37.782809,
+        "lat": 55.783409,
+        "distance": 10
+    },
+    "2157831": {
+        "id": "2157831",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041b\u043e\u0441\u0438\u043d\u0430\u044f \u0431\u0438\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u044f \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0430\u0440\u043a\u0430 \u00ab\u041b\u043e\u0441\u0438\u043d\u044b\u0439 \u043e\u0441\u0442\u0440\u043e\u0432\u00bb",
+        "url": "http:\/\/wikimapia.org\/2157831\/ru\/%D0%9B%D0%BE%D1%81%D0%B8%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D0%B0%D1%80%D0%BA%D0%B0-%C2%AB%D0%9B%D0%BE%D1%81%D0%B8%D0%BD%D1%8B%D0%B9-%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%C2%BB",
+        "lon": 37.7840424,
+        "lat": 55.8812689,
+        "distance": 12
+    },
+    "10641036": {
+        "id": "10641036",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041e\u0410\u041e \u00ab\u0412\u043e\u0434\u043e\u043a\u0430\u043d\u0430\u043b-\u041c\u044b\u0442\u0438\u0449\u0438\u00bb, \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0432\u043e\u0434\u043e\u0437\u0430\u0431\u043e\u0440\u043d\u044b\u0439 \u0443\u0437\u0435\u043b",
+        "url": "http:\/\/wikimapia.org\/10641036\/ru\/%D0%9E%D0%90%D0%9E-%C2%AB%D0%92%D0%BE%D0%B4%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8%C2%BB-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B2%D0%BE%D0%B4%D0%BE%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D1%83%D0%B7%D0%B5%D0%BB",
+        "lon": 37.7765,
+        "lat": 55.897147,
+        "distance": 12
+    },
+    "10726094": {
+        "id": "10726094",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041e\u0441\u0442\u0430\u0442\u043a\u0438 \u0447\u0430\u0441\u0442\u043d\u043e\u0439 \u0437\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0441\u0435\u043b\u0430 \u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041c\u044b\u0442\u0438\u0449\u0438",
+        "url": "http:\/\/wikimapia.org\/10726094\/ru\/%D0%9E%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%B8-%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9-%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-%D1%81%D0%B5%D0%BB%D0%B0-%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5-%D0%9C%D1%8B%D1%82%D0%B8%D1%89%D0%B8",
+        "lon": 37.7608252,
+        "lat": 55.9134845,
+        "distance": 13
+    },
+    "25356766": {
+        "id": "25356766",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0423\u0441\u0430\u0434\u044c\u0431\u0430 \u00ab\u0413\u043e\u0440\u0435\u043d\u043a\u0438\u00bb",
+        "url": "http:\/\/wikimapia.org\/25356766\/ru\/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0-%C2%AB%D0%93%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%B8%C2%BB",
+        "lon": 37.8940585,
+        "lat": 55.7934332,
+        "distance": 16
+    },
+    "14074438": {
+        "id": "14074438",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0423\u0441\u0430\u0434\u044c\u0431\u0430 \u041f\u0435\u0445\u0440\u0430-\u042f\u043a\u043e\u0432\u043b\u0435\u0432\u0441\u043a\u043e\u0435",
+        "url": "http:\/\/wikimapia.org\/14074438\/ru\/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0-%D0%9F%D0%B5%D1%85%D1%80%D0%B0-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5",
+        "lon": 37.9434728,
+        "lat": 55.7953135,
+        "distance": 19
+    },
+    "3609647": {
+        "id": "3609647",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\"\u0427\u0451\u0440\u043d\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430\"",
+        "url": "http:\/\/wikimapia.org\/3609647\/ru\/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0",
+        "lon": 37.9341388,
+        "lat": 55.8590445,
+        "distance": 19
+    }
+}, "nearestPlaces": {
+    "10003548": {
+        "id": "10003548",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "12-\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "url": "http:\/\/wikimapia.org\/10003548\/ru\/12-%D0%B9-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B0%D0%B9%D0%BE%D0%BD-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0",
+        "lon": 37.6434356,
+        "lat": 55.8187981,
+        "distance": 0.5
+    },
+    "3024196": {
+        "id": "3024196",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "url": "http:\/\/wikimapia.org\/3024196\/ru\/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD",
+        "lon": 37.6526999,
+        "lat": 55.811329,
+        "distance": 0.9
+    },
+    "10003584": {
+        "id": "10003584",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "46-\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "url": "http:\/\/wikimapia.org\/10003584\/ru\/46-%D0%B9-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B0%D0%B9%D0%BE%D0%BD-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0",
+        "lon": 37.6560795,
+        "lat": 55.8131558,
+        "distance": 1
+    },
+    "10003606": {
+        "id": "10003606",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "44-\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "url": "http:\/\/wikimapia.org\/10003606\/ru\/44-%D0%B9-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B0%D0%B9%D0%BE%D0%BD-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0",
+        "lon": 37.6602531,
+        "lat": 55.8174553,
+        "distance": 1.3
+    },
+    "10003478": {
+        "id": "10003478",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "20-\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "url": "http:\/\/wikimapia.org\/10003478\/ru\/20-%D0%B9-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B0%D0%B9%D0%BE%D0%BD-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0",
+        "lon": 37.6599311,
+        "lat": 55.8234872,
+        "distance": 1.6
+    },
+    "91399": {
+        "id": "91399",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041f\u0430\u0440\u043a \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0438 \u043e\u0442\u0434\u044b\u0445\u0430 \u00ab\u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u0438\u00bb",
+        "url": "http:\/\/wikimapia.org\/91399\/ru\/%D0%9F%D0%B0%D1%80%D0%BA-%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B-%D0%B8-%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0-%C2%AB%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8%C2%BB",
+        "lon": 37.6695093,
+        "lat": 55.8057557,
+        "distance": 2.1
+    },
+    "3081728": {
+        "id": "3081728",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041e\u0441\u0442\u0430\u043d\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "url": "http:\/\/wikimapia.org\/3081728\/ru\/%D0%9E%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD",
+        "lon": 37.6149157,
+        "lat": 55.8280263,
+        "distance": 2.1
+    },
+    "2930076": {
+        "id": "2930076",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0420\u0430\u0439\u043e\u043d \u0420\u043e\u0441\u0442\u043e\u043a\u0438\u043d\u043e",
+        "url": "http:\/\/wikimapia.org\/2930076\/ru\/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE",
+        "lon": 37.6508117,
+        "lat": 55.835119,
+        "distance": 2.3
+    },
+    "3801221": {
+        "id": "3801221",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0420\u0430\u0439\u043e\u043d \u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u0438 (\u0412\u0410\u041e)",
+        "url": "http:\/\/wikimapia.org\/3801221\/ru\/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD-%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8-%D0%92%D0%90%D0%9E",
+        "lon": 37.677851,
+        "lat": 55.8031823,
+        "distance": 2.7
+    },
+    "18514921": {
+        "id": "18514921",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+        "url": "http:\/\/wikimapia.org\/18514921\/ru\/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%BE%D0%BA%D1%80%D1%83%D0%B3",
+        "lon": 37.7979362,
+        "lat": 55.7869751,
+        "distance": 10
+    }
+}, "nearestCities": {
+    "4126149": {
+        "id": "4126149",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0425\u0438\u043c\u043a\u0438",
+        "url": "http:\/\/wikimapia.org\/4126149\/ru\/%D0%A5%D0%B8%D0%BC%D0%BA%D0%B8",
+        "lon": 37.2290182,
+        "lat": 55.9932208,
+        "distance": 32
+    },
+    "71533": {
+        "id": "71533",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
+        "url": "http:\/\/wikimapia.org\/71533\/ru\/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80",
+        "lon": 40.1649697,
+        "lat": 56.2165756,
+        "distance": 163
+    },
+    "56287": {
+        "id": "56287",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0422\u0432\u0435\u0440\u044c",
+        "url": "http:\/\/wikimapia.org\/56287\/ru\/%D0%A2%D0%B2%D0%B5%D1%80%D1%8C",
+        "lon": 35.7212251,
+        "lat": 56.9364176,
+        "distance": 172
+    },
+    "66024": {
+        "id": "66024",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0418\u0432\u0430\u043d\u043e\u0432\u043e",
+        "url": "http:\/\/wikimapia.org\/66024\/ru\/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE",
+        "lon": 40.87826,
+        "lat": 57.0703462,
+        "distance": 243
+    },
+    "1706775": {
+        "id": "1706775",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c",
+        "url": "http:\/\/wikimapia.org\/1706775\/ru\/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C",
+        "lon": 39.7308755,
+        "lat": 57.7759364,
+        "distance": 253
+    },
+    "219415": {
+        "id": "219415",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0420\u044b\u0431\u0438\u043d\u0441\u043a",
+        "url": "http:\/\/wikimapia.org\/219415\/ru\/%D0%A0%D1%8B%D0%B1%D0%B8%D0%BD%D1%81%D0%BA",
+        "lon": 38.6531639,
+        "lat": 58.1206026,
+        "distance": 264
+    },
+    "868998": {
+        "id": "868998",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0430",
+        "url": "http:\/\/wikimapia.org\/868998\/ru\/%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D0%B0",
+        "lon": 40.7445145,
+        "lat": 57.8855205,
+        "distance": 298
+    },
+    "92910": {
+        "id": "92910",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0427\u0435\u0440\u0435\u043f\u043e\u0432\u0435\u0446",
+        "url": "http:\/\/wikimapia.org\/92910\/ru\/%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B2%D0%B5%D1%86",
+        "lon": 37.6300327,
+        "lat": 59.183228,
+        "distance": 375
+    },
+    "4417548": {
+        "id": "4417548",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+        "url": "http:\/\/wikimapia.org\/4417548\/ru\/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9-%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4",
+        "lon": 43.7024117,
+        "lat": 56.4218772,
+        "distance": 382
+    },
+    "129480": {
+        "id": "129480",
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0412\u043e\u043b\u043e\u0433\u0434\u0430",
+        "url": "http:\/\/wikimapia.org\/129480\/ru\/%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0",
+        "lon": 39.733086,
+        "lat": 59.2796074,
+        "distance": 405
+    }
+}, "nearestComments": [
+    {
+        "place_id": "211613",
+        "num": "4",
+        "message": "\u041e\u0447\u0430\u0433 \u0441\u0430\u043c\u043e\u0443\u043f\u0440\u0430\u0432\u0441\u0442\u0432\u0430 \u043d\u0430\u043f\u043e\u0434\u043e\u0431\u0438\u0435 \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u0431\u044b\u043b \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u043d\u0430\u0437\u0430\u0434 \u0432 \u0422\u0440\u043e\u0438\u0446\u0435-\u041b\u044b\u043a\u043e\u0432\u0435. \u041f\u0440\u0438 \u0432\u0445\u043e\u0434\u0435 \u0432\u0438\u0441\u0438\u0442 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u0437\u0430\u043f\u0440\u0435\u0442\u0435 \u043d\u0430 \u0444\u043e\u0442\u043e\u0441\u044a\u0435\u043c\u043a\u0443, \u0442\u0430\u043a\u0436\u0435 \u043d\u0435\u043b\u044c\u0437\u044f \u043f\u0440\u043e\u043d\u043e\u0441\u0438\u0442\u044c \u0440\u0443\u0447\u043d\u0443\u044e \u043a\u043b\u0430\u0434\u044c \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u0432 :) \u0412\u0435\u043b\u0438\u043a\u043e \u0436\u0435\u043b\u0430\u043d\u0438\u0435 \u043e\u0442\u0442\u044f\u043f\u0430\u0442\u044c \u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u041c\u0430\u0439\u0441\u043a\u0438\u0439 \u043f\u0440\u0443\u0434 \u2014 \u0432\u043e\u0437\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0437\u0430\u0431\u043e\u0440.",
+        "title": "\u0425\u0440\u0430\u043c \u0422\u0438\u0445\u043e\u043d\u0430 \u0417\u0430\u0434\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u043d\u0430 \u0428\u0438\u0440\u044f\u0435\u0432\u043e\u043c \u043f\u043e\u043b\u0435 \u0432 \u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u0430\u0445",
+        "url": "\/211613\/ru\/%D0%A5%D1%80%D0%B0%D0%BC-%D0%A2%D0%B8%D1%85%D0%BE%D0%BD%D0%B0-%D0%97%D0%B0%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B0-%D0%A8%D0%B8%D1%80%D1%8F%D0%B5%D0%B2%D0%BE%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B5-%D0%B2-%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0%D1%85",
+        "user_id": "303778",
+        "name": "Sandrinho",
+        "date": "1372425264",
+        "good": "1",
+        "bad": "0"
+    },
+    {
+        "place_id": "18248506",
+        "num": "1",
+        "message": "\u0411\u044b\u043b \u0437\u0430\u0432\u043e\u0434   \u0438\u0437\u043c\u0435\u0440\u0438\u0442\u0435\u043b\u044c\u0435\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432. \u0421\u0442\u0430\u043b \u0434\u0435\u043b\u0430\u0442\u044c \u0441\u0430\u043d\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u0430\u0431\u0438\u043d\u044b. \u0421\u043b\u0430\u0432\u0430 \u0433\u0430\u0439\u0434\u0430\u0440\u0443!",
+        "title": "\u041e\u0410\u041e \u00ab\u041a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434\u00bb",
+        "url": "\/18248506\/ru\/%D0%9E%D0%90%D0%9E-%C2%AB%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB",
+        "user_id": "0",
+        "name": "\u0421",
+        "date": "1372315809",
+        "good": "0",
+        "bad": "0"
+    },
+    {
+        "place_id": "1821157",
+        "num": "10",
+        "message": "\u0414\u0430, \u043d\u0430\u0448\u0451\u043b \u0432 \u043d\u0435\u0442\u0435. \u0414\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043b\u0438\u0434\u0430\u0440. \u0414\u043b\u044f \u0447\u0435\u0433\u043e \u043e\u043d \u043d\u0443\u0436\u0435\u043d \u0442\u0430\u043a \u0438 \u043d\u0435 \u044f\u0441\u043d\u043e. \u041d\u0435\u0443\u0436\u0435\u043b\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0439 \u0437\u0430 \u0427\u0421? ",
+        "title": "\u041e\u0410\u041e \u00ab\u041d\u0418\u0418\u0422\u0435\u043f\u043b\u043e\u043f\u0440\u0438\u0431\u043e\u0440\u00bb (\u041d\u0418\u0418\u0422\u041f)",
+        "url": "\/1821157\/ru\/%D0%9E%D0%90%D0%9E-%C2%AB%D0%9D%D0%98%D0%98%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BF%D1%80%D0%B8%D0%B1%D0%BE%D1%80%C2%BB-%D0%9D%D0%98%D0%98%D0%A2%D0%9F",
+        "user_id": "0",
+        "name": "\u0421\u043d\u0435\u0433",
+        "date": "1372242096",
+        "good": "0",
+        "bad": "0"
+    },
+    {
+        "place_id": "10498998",
+        "num": "1",
+        "message": "\u042d\u0442\u043e \u0413\u0421\u041a-1, \u0430 \u043d\u0435 \u0413\u0421\u041a \u0421\u0430\u0442\u0443\u0440\u043d",
+        "title": "\u0410\u0432\u0442\u043e\u0441\u0442\u043e\u044f\u043d\u043a\u0430 \u00ab\u0421\u0430\u0442\u0443\u0440\u043d\u00bb \u041c\u0413\u0421\u0410 \u0421\u0412\u0410\u041e",
+        "url": "\/10498998\/ru\/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BA%D0%B0-%C2%AB%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD%C2%BB-%D0%9C%D0%93%D0%A1%D0%90-%D0%A1%D0%92%D0%90%D0%9E",
+        "user_id": "0",
+        "name": "Ach",
+        "date": "1372237969",
+        "good": "0",
+        "bad": "0"
+    },
+    {
+        "place_id": "1446247",
+        "num": "51",
+        "message": "\u041a\u0440\u044b\u0448\u0443 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u0442\u044c \u043f\u043e\u0434 \u0425\u043e\u0445\u043b\u043e\u043c\u0443 - \u0443\u043a\u0440\u0430\u0441\u0438\u0442 \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u044b\u0435 \u043a\u0430\u0440\u0442\u044b!",
+        "title": "\u0421\u043f\u043e\u0440\u0442\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u041e\u043b\u0438\u043c\u043f\u0438\u0439\u0441\u043a\u0438\u0439\u00bb",
+        "url": "\/1446247\/ru\/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%C2%AB%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%C2%BB",
+        "user_id": "0",
+        "name": "Burg",
+        "date": "1372071978",
+        "good": "1",
+        "bad": "1"
+    },
+    {
+        "place_id": "12019705",
+        "num": "4",
+        "message": "\u0431\u0440\u0443\u0441\u044c\u044f \u0443\u0436\u0435 \u0441\u043a\u0440\u0438\u043f\u044f\u0442,  \u0442\u0443\u0440\u043d\u0438\u043a \u0438\u0441\u0442\u0451\u0440\u0442 \u0442\u0430\u043a \u0447\u0442\u043e \u0440\u0443\u043a\u0438 \u0441\u043a\u043e\u043b\u044c\u0437\u044f\u0442 \u0434\u0430\u0436\u0435 \u0432 \u043f\u0435\u0440\u0447\u0430\u0442\u043a\u0430\u0445, \u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u044b \u0443\u0436\u0435 \u0432\u0441\u0435 \u0441\u043b\u043e\u043c\u0430\u043d\u043d\u044b\u0435! \u041e\u0434\u0438\u043d \u043f\u0440\u0438\u0448\u043b\u043e\u0441\u044c \u0434\u0430\u0436\u0435 \u0443\u0431\u0440\u0430\u0442\u044c, \u043d\u0430 \u043d\u0451\u043c \u0442\u0440\u0430\u0432\u043c\u0438\u0440\u043e\u0432\u0430\u043b\u0438\u0441\u044c \u043b\u044e\u0434\u0438....",
+        "title": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0442\u0440\u0435\u043d\u0430\u0436\u0451\u0440\u043d\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430",
+        "url": "\/12019705\/ru\/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0",
+        "user_id": "0",
+        "name": "\u041e\u043b\u044f",
+        "date": "1372049745",
+        "good": "0",
+        "bad": "0"
+    },
+    {
+        "place_id": "8127789",
+        "num": "42",
+        "message": "\u041d\u0430\u0432\u0435\u0440\u043d\u043e\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u043b\u043e\u043c\u0430\u0442\u044c \u043d\u0435 \u0431\u0443\u0434\u0443\u0442 - \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0438 \u043b\u0435\u0441\u0430 \u0438 \"\u043e\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0438\u0432\u0430\u044e\u0442\" \u0441\u0442\u0435\u043d\u044b, \u043e\u0442 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0442\u043b\u043e\u043c\u0430\u043b\u0438 \u0447\u0430\u0441\u0442\u044c \u0437\u0434\u0430\u043d\u0438\u044f.",
+        "title": "\u0426\u0438\u0440\u043a\u0443\u043b\u044c\u043d\u043e\u0435 \u0434\u0435\u043f\u043e \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u043e\u0439 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0439 \u0434\u043e\u0440\u043e\u0433\u0438 \u2013 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b",
+        "url": "\/8127789\/ru\/%D0%A6%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BF%D0%BE-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B9-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8-%E2%80%93-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B",
+        "user_id": "1517022",
+        "name": "karaleks",
+        "date": "1372010341",
+        "good": "0",
+        "bad": "0"
+    },
+    {
+        "place_id": "12049468",
+        "num": "3",
+        "message": "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0437\u0430\u0432\u043e\u0434\u0430 \u041a\u0430\u043b\u0438\u0431\u0440",
+        "title": "\u0416\u0438\u043b\u043e\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u043f\u0440\u0438 \u043f\u0440\u043e\u043c\u0437\u043e\u043d\u0435 \u041a\u0430\u043b\u0438\u0431\u0440",
+        "url": "\/12049468\/ru\/%D0%96%D0%B8%D0%BB%D0%BE%D0%B9-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B0%D0%B9%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8-%D0%BF%D1%80%D0%BE%D0%BC%D0%B7%D0%BE%D0%BD%D0%B5-%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80",
+        "user_id": "0",
+        "name": "\u0422\u0430\u043f\u043e\u043a",
+        "date": "1371932900",
+        "good": "0",
+        "bad": "0"
+    },
+    {
+        "place_id": "2261",
+        "num": "16",
+        "message": "\u041e\u0442 \u0412\u0414\u041d\u0425 \u0430\u0432\u0442\u043e\u0431\u0443\u0441\u044b \u0443\u0436\u0435 \u0434\u0430\u0432\u043d\u043e \u043d\u0435 \u0445\u043e\u0434\u044f\u0442, \u0433\u043e\u0434 \u0442\u043e\u0447\u043d\u043e",
+        "title": "\u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u00ab\u041a\u0430\u043f\u0438\u0442\u043e\u043b\u0438\u0439 \u041c\u0430\u0440\u044c\u0438\u043d\u0430 \u0420\u043e\u0449\u0430\u00bb",
+        "url": "\/2261\/ru\/%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%86%D0%B5%D0%BD%D1%82%D1%80-%C2%AB%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BB%D0%B8%D0%B9-%D0%9C%D0%B0%D1%80%D1%8C%D0%B8%D0%BD%D0%B0-%D0%A0%D0%BE%D1%89%D0%B0%C2%BB",
+        "user_id": "0",
+        "name": "\u0422\u0430\u043f\u043e\u043a",
+        "date": "1371932797",
+        "good": "0",
+        "bad": "0"
+    },
+    {
+        "place_id": "27018",
+        "num": "26",
+        "message": "\u041e\u0442\u043a\u0440\u044b\u043b\u0438 \u043d\u0430 \u0434\u0435\u043d\u044c \u0438 \u0437\u0430\u043a\u0440\u044b\u043b\u0438. \u0420\u0430\u043d\u044c\u0448\u0435 \u0445\u043e\u0442\u044c \u0431\u0443\u043a\u0432\u044b \u0433\u043e\u0440\u0435\u043b\u0438 \u043f\u043e \u043d\u043e\u0447\u0430\u043c, \u0430 \u0441\u0435\u0439\u0447\u0430\u0441 \u043f\u043e\u043b\u043d\u0430\u044f \u0442\u0438\u0448\u0438\u043d\u0430. \u0415\u0441\u043b\u0438 \u043f\u043e\u0434\u043d\u044f\u0442\u044c\u0441\u044f \u043f\u043e \u043b\u0435\u0441\u0442\u043d\u0438\u0446\u0435, \u0432\u044b\u0439\u0434\u0435\u0442 \u043e\u0445\u0440\u0430\u043d\u043d\u0438\u043a. \u0412 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u043e\u0439 \u0440\u0430\u0437 \u043e\u0442\u043c\u044b\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u0438 \u043b\u0438\u0448\u0438\u043b\u0438 \u043b\u044e\u0434\u0435\u0439 \u043a\u0438\u043d\u043e\u0442\u0435\u0430\u0442\u0440\u0430. \u0421\u043f\u0430\u0441\u0438\u0431\u043e\u043f\u0443\u0442\u0438\u043d\u0443\u0437\u0430\u044d\u0442\u043e",
+        "title": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043c\u043e\u043b\u043e\u0434\u0451\u0436\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u00ab\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u041a\u0412\u041d\u00bb",
+        "url": "\/27018\/ru\/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B9-%D1%86%D0%B5%D0%BD%D1%82%D1%80-%C2%AB%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0-%D0%9A%D0%92%D0%9D%C2%BB",
+        "user_id": "0",
+        "name": "\u0422\u0430\u043f\u043e\u043a",
+        "date": "1371932559",
+        "good": "0",
+        "bad": "0"
+    }
+], "nearestHotels": {
+    "1253555": {
+        "title": "Oksana Hotel",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Oksana_Hotel.htm?a_aid=87161",
+        "x": "376471490",
+        "y": "558201290",
+        "minrate": "2808.46",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A40964045.jpg",
+        "class": "4",
+        "name": "Oksana Hotel",
+        "consumerRating": 8
+    },
+    "1645170": {
+        "title": "Hotel Sokolniki",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Hotel_Sokolniki.htm?a_aid=87161",
+        "x": "376929779",
+        "y": "557919121",
+        "minrate": "3450.49",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A84877487.jpg",
+        "class": "3",
+        "name": "Hotel Sokolniki",
+        "consumerRating": 7.9
+    },
+    "1241918": {
+        "title": "Maxima Slavia",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Maxima_Slavia.htm?a_aid=87161",
+        "x": "377016770",
+        "y": "558638580",
+        "minrate": "1554.35",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A42882022.jpg",
+        "class": "3",
+        "name": "Maxima Slavia",
+        "consumerRating": 7.9
+    },
+    "1058952": {
+        "title": "Holiday Inn Moscow - Suschevsky",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Holiday_Inn_Moscow_Suschevsky.htm?a_aid=87161",
+        "x": "376327710",
+        "y": "557913990",
+        "minrate": "3176.36",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A70278561.jpg",
+        "class": "4",
+        "name": "Holiday Inn Moscow - Suschevsky",
+        "consumerRating": 8
+    },
+    "1058985": {
+        "title": "Holiday Inn Moscow Sokolniki",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Holiday_Inn_Moscow_Sokolniki.htm?a_aid=87161",
+        "x": "376777000",
+        "y": "557865410",
+        "minrate": "4373.11",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A104741222.jpg",
+        "class": "4",
+        "name": "Holiday Inn Moscow Sokolniki",
+        "consumerRating": 8.1
+    },
+    "1058969": {
+        "title": "Renaissance Moscow Olympic Hotel",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Renaissance_Moscow_Olympic_Hotel.htm?a_aid=87161",
+        "x": "376244520",
+        "y": "557849800",
+        "minrate": "7339.16",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A105734414.jpg",
+        "class": "5",
+        "name": "Renaissance Moscow Olympic Hotel",
+        "consumerRating": 8.4
+    },
+    "1681543": {
+        "title": "Tipo Hotel",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Tipo_Hotel.htm?a_aid=87161",
+        "x": "376378670",
+        "y": "558151321",
+        "minrate": "632.002",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A80415632.jpg",
+        "class": "3",
+        "name": "Tipo Hotel",
+        "consumerRating": 8.4
+    },
+    "1682668": {
+        "title": "Hotel 45",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/Hotel_45.htm?a_aid=87161",
+        "x": "377047729",
+        "y": "557800713",
+        "minrate": "3851.26",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A99141257.jpg",
+        "class": "3",
+        "name": "Hotel 45",
+        "consumerRating": 8.2
+    },
+    "1540258": {
+        "title": "D'Hotel",
+        "url": "http:\/\/hotelscombined.com\/Hotel\/DHotel.htm?a_aid=87161",
+        "x": "376482315",
+        "y": "558169632",
+        "minrate": "3005.79",
+        "currencycode": "RUB",
+        "photo_url": "http:\/\/media.hotelscombined.com\/A71658090.jpg",
+        "class": "4",
+        "name": "D'Hotel",
+        "consumerRating": 8.4
+    }
+}, "children": {
+    "1808732": {
+        "id": 1808732,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0422\u0430\u0432\u0435\u0440\u043d\u0430 \u00ab\u0421\u0438\u0432\u044b\u0439 \u043c\u0435\u0440\u0438\u043d\u00bb",
+        "url": "http:\/\/wikimapia.org\/1808732\/ru\/%D0%A2%D0%B0%D0%B2%D0%B5%D1%80%D0%BD%D0%B0-%C2%AB%D0%A1%D0%B8%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B5%D1%80%D0%B8%D0%BD%C2%BB",
+        "tags": [
+            {
+                "id": 74,
+                "title": "\u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d"
+            }
+        ],
+        "is_deleted": false
+    },
+    "1921291": {
+        "id": 1921291,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0432\u044f\u0437\u0438 129164",
+        "url": "http:\/\/wikimapia.org\/1921291\/ru\/%D0%9E%D1%82%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B2%D1%8F%D0%B7%D0%B8-129164",
+        "tags": [
+            {
+                "id": 1548,
+                "title": "\u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0439 \u0441\u0432\u044f\u0437\u0438\/\u043f\u043e\u0447\u0442\u0430\u043c\u0442"
+            }
+        ],
+        "is_deleted": false
+    },
+    "3607906": {
+        "id": 3607906,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0410\u043f\u0442\u0435\u043a\u0430 \u2116 109 \u00ab\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u00bb",
+        "url": "http:\/\/wikimapia.org\/3607906\/ru\/%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0-%E2%84%96-109-%C2%AB%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%C2%BB",
+        "tags": [
+            {
+                "id": 787,
+                "title": "\u0430\u043f\u0442\u0435\u043a\u0430"
+            }
+        ],
+        "is_deleted": false
+    },
+    "3944056": {
+        "id": 3944056,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0421\u0442\u043e\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043b\u0438\u043d\u0438\u043a\u0430 \u00ab\u041f\u041a \u0421\u0442\u043e\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u00bb",
+        "url": "http:\/\/wikimapia.org\/3944056\/ru\/%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0-%C2%AB%D0%9F%D0%9A-%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%C2%BB",
+        "tags": [
+            {
+                "id": 1275,
+                "title": "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u0435 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435"
+            },
+            {
+                "id": 9811,
+                "title": "\u0441\u0442\u043e\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043b\u0438\u043d\u0438\u043a\u0430\/\u043a\u0430\u0431\u0438\u043d\u0435\u0442"
+            }
+        ],
+        "is_deleted": false
+    },
+    "8767767": {
+        "id": 8767767,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041e\u0444\u0438\u0441 \u0441\u0442\u0440\u0430\u0445\u043e\u0432\u043e\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u00ab\u0418\u043d\u0433\u043e\u0441\u0441\u0442\u0440\u0430\u0445\u00bb",
+        "url": "http:\/\/wikimapia.org\/8767767\/ru\/%D0%9E%D1%84%D0%B8%D1%81-%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%C2%AB%D0%98%D0%BD%D0%B3%D0%BE%D1%81%D1%81%D1%82%D1%80%D0%B0%D1%85%C2%BB",
+        "tags": [
+            {
+                "id": 143,
+                "title": "\u0441\u0442\u0440\u0430\u0445\u043e\u0432\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f"
+            }
+        ],
+        "is_deleted": false
+    },
+    "10381183": {
+        "id": 10381183,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041f\u0430\u043c\u044f\u0442\u043d\u0430\u044f \u0434\u043e\u0441\u043a\u0430 \u00ab\u0423\u043b. \u041a\u0438\u0431\u0430\u043b\u044c\u0447\u0438\u0447\u0430\u00bb",
+        "url": "http:\/\/wikimapia.org\/10381183\/ru\/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D1%81%D0%BA%D0%B0-%C2%AB%D0%A3%D0%BB-%D0%9A%D0%B8%D0%B1%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D1%87%D0%B0%C2%BB",
+        "tags": [
+            {
+                "id": 261,
+                "title": "\u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a, \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442"
+            }
+        ],
+        "is_deleted": false
+    },
+    "10382015": {
+        "id": 10382015,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0421\u0430\u043b\u043e\u043d \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u0435\u0431\u0435\u043b\u0438 \u00ab\u0421\u0442\u044d\u043d\u043b\u0438\u00bb",
+        "url": "http:\/\/wikimapia.org\/10382015\/ru\/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD-%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8-%C2%AB%D0%A1%D1%82%D1%8D%D0%BD%D0%BB%D0%B8%C2%BB",
+        "tags": [
+            {
+                "id": 1441,
+                "title": "\u043c\u0435\u0431\u0435\u043b\u044c\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d"
+            }
+        ],
+        "is_deleted": false
+    },
+    "10382022": {
+        "id": 10382022,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0421\u0430\u043b\u043e\u043d \u043a\u0440\u0430\u0441\u043e\u0442\u044b \u00ab\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f\u00bb",
+        "url": "http:\/\/wikimapia.org\/10382022\/ru\/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD-%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B-%C2%AB%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%C2%BB",
+        "tags": [
+            {
+                "id": 7417,
+                "title": "\u043f\u0430\u0440\u0438\u043a\u043c\u0430\u0445\u0435\u0440\u0441\u043a\u0430\u044f"
+            }
+        ],
+        "is_deleted": false
+    },
+    "10382034": {
+        "id": 10382034,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0410\u043d\u0442\u0438\u043a\u0432\u0430\u0440\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u00ab\u0421\u0442\u0438\u043b\u044c\u00bb",
+        "url": "http:\/\/wikimapia.org\/10382034\/ru\/%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%B2%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-%C2%AB%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%C2%BB",
+        "tags": [
+            {
+                "id": 17,
+                "title": "\u043c\u0430\u0433\u0430\u0437\u0438\u043d"
+            },
+            {
+                "id": 11407,
+                "title": "\u0430\u043d\u0442\u0438\u043a\u0432\u0430\u0440\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d"
+            }
+        ],
+        "is_deleted": false
+    },
+    "10410064": {
+        "id": 10410064,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0411\u0430\u043d\u043a \u00ab\u0421\u043e\u0441\u044c\u0435\u0442\u0435 \u0416\u0435\u043d\u0435\u0440\u0430\u043b\u044c \u0412\u043e\u0441\u0442\u043e\u043a\u00bb - \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u00ab\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u043e\u0435\u00bb",
+        "url": "http:\/\/wikimapia.org\/10410064\/ru\/%D0%91%D0%B0%D0%BD%D0%BA-%C2%AB%D0%A1%D0%BE%D1%81%D1%8C%D0%B5%D1%82%D0%B5-%D0%96%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C-%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA%C2%BB-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%C2%AB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5%C2%BB",
+        "tags": [
+            {
+                "id": 217,
+                "title": "\u0431\u0430\u043d\u043a"
+            }
+        ],
+        "is_deleted": false
+    },
+    "11817033": {
+        "id": 11817033,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u00ab\u041e\u043d \u0438 \u041e\u043d\u0430\u00bb",
+        "url": "http:\/\/wikimapia.org\/11817033\/ru\/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-%C2%AB%D0%9E%D0%BD-%D0%B8-%D0%9E%D0%BD%D0%B0%C2%BB",
+        "tags": [
+            {
+                "id": 17,
+                "title": "\u043c\u0430\u0433\u0430\u0437\u0438\u043d"
+            }
+        ],
+        "is_deleted": false
+    },
+    "11950628": {
+        "id": 11950628,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0410\u043f\u0442\u0435\u043a\u0430 \u00ab120 \u043d\u0430 80\u00bb",
+        "url": "http:\/\/wikimapia.org\/11950628\/ru\/%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0-%C2%AB120-%D0%BD%D0%B0-80%C2%BB",
+        "tags": [
+            {
+                "id": 787,
+                "title": "\u0430\u043f\u0442\u0435\u043a\u0430"
+            }
+        ],
+        "is_deleted": false
+    },
+    "11950705": {
+        "id": 11950705,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d",
+        "url": "http:\/\/wikimapia.org\/11950705\/ru\/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+        "tags": [
+            {
+                "id": 17,
+                "title": "\u043c\u0430\u0433\u0430\u0437\u0438\u043d"
+            },
+            {
+                "id": 574,
+                "title": "\u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f"
+            }
+        ],
+        "is_deleted": false
+    },
+    "12130624": {
+        "id": 12130624,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u0411\u0430\u0440\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u044f \u0420\u043e\u0441\u0441\u0438\u0438 (\u0411.\u0410.\u0420.)",
+        "url": "http:\/\/wikimapia.org\/12130624\/ru\/%D0%91%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%90%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%91-%D0%90-%D0%A0",
+        "tags": [
+            {
+                "id": 2158,
+                "title": "\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f"
+            }
+        ],
+        "is_deleted": false
+    },
+    "14064671": {
+        "id": 14064671,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041f\u0438\u0432\u043d\u043e\u0439 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d \u00ab\u0411\u0438\u0440\u0425\u0430\u0443\u0441\u00bb",
+        "url": "http:\/\/wikimapia.org\/14064671\/ru\/%D0%9F%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9-%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD-%C2%AB%D0%91%D0%B8%D1%80%D0%A5%D0%B0%D1%83%D1%81%C2%BB",
+        "tags": [
+            {
+                "id": 634,
+                "title": "\u043f\u0438\u0432\u043d\u043e\u0439 \u0431\u0430\u0440, \u043f\u0430\u0431"
+            }
+        ],
+        "is_deleted": false
+    },
+    "25906147": {
+        "id": 25906147,
+        "language_id": 1,
+        "language_iso": "ru",
+        "language_name": "Russian",
+        "title": "\u041c\u0435\u0441\u0442\u043d\u043e\u0435 \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041a\u041f\u0420\u0424",
+        "url": "http:\/\/wikimapia.org\/25906147\/ru\/%D0%9C%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B5-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9A%D0%9F%D0%A0%D0%A4",
+        "tags": [
+            {
+                "id": 310,
+                "title": "\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u043e\u0435 \u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u0435"
+            },
+            {
+                "id": 44721,
+                "title": "\u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f"
+            }
+        ],
+        "is_deleted": false
+    }
+}}

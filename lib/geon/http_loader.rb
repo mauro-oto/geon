@@ -9,5 +9,13 @@ module Geon
       }
 
     end
+
+    def get(path = '/', params = {})
+      encode_param = URI.encode_www_form(params)
+      path << '?' << encode_param
+      resp, _ = @http.get(path, @headers)
+
+      resp.body
+    end
   end
 end
