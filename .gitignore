@@ -2,3 +2,4 @@
 coverage
 Gemfile.lock
 geon*.gem
+spec/config.rb

@@ -26,15 +26,15 @@ module Geon
     end
 
     def place_search(q)
-      request 'place.getnearest', {q: q}
+      request 'place.search', {q: q}
     end
 
     def place_getbyid(id)
-      request 'place.getnearest', {id: id}
+      request 'place.getbyid', {id: id}
     end
 
     def place_getbyarea(lon_min, lat_min, lon_max, lat_max)
-      request 'place.getnearest', {lon_min: lon_min, lat_min: lat_min, lon_max: lon_max, lat_max: lat_max}
+      request 'place.getbyarea', {lon_min: lon_min, lat_min: lat_min, lon_max: lon_max, lat_max: lat_max}
     end
 
     def street_getbyid(id)
@@ -45,8 +45,9 @@ module Geon
       request 'category.getbyid', {id: id}
     end
 
-    def category_getall
-      request 'category.getall'
+    #50 categories by page
+    def category_getall(page = 1, count = 50)
+      request 'category.getall', {page: page, count: count}
     end
 
     def api_getlanguages
@@ -71,10 +72,10 @@ module Geon
       if response['debug'] && response['debug']['code']
         case response['debug']['code'].to_i
           when 1000
-            raise Geon::InvalidKeyError
+            raise InvalidKeyError
           else
-            raise response['debug']['message'] if response['debug']['message']
-            raise 'Wikimapia: unknown error'
+            raise WikimapiaError.new(response['debug']['message']) if response['debug']['message']
+            raise WikimapiaError.new('Wikimapia: unknown error')
         end
 
       end

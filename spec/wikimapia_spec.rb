@@ -1,4 +1,3 @@
-require 'rspec'
 describe Geon::Wikimapia do
 
   before(:all) do
