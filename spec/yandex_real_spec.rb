@@ -1,12 +1,8 @@
+describe Geon::Yandex, 'Yandex real geocode' do
 
-describe Geon::Yandex, 'Yandex geocode' do
+  it 'Разбор json ответа с одним результатом' do
 
-  it 'simple request' do
-
-    loader = double("Geon::HttpLoader")
-    loader.stub(:get) { sample('yandex/yandex_geocode1.json') }
-
-    yandex = Geon::Yandex.new({loader: loader})
+    yandex = Geon::Yandex.new
 
     result = yandex.forward(55.757962, 37.611006)
 

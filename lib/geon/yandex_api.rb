@@ -1,5 +1,7 @@
 module Geon
   class YandexApi
+    PATH = '/1.x/'
+
     # @param [Geon::HttpLoader] downloader
     # @param [Hash] param
     def initialize(downloader, param = {})
@@ -16,14 +18,14 @@ module Geon
     def geocode(args = {})
       param = @general_param
       if args[:lat] and args[:long]
-        param[:geocode] = "#{args[:lat]},#{args[:long]}"
+        param[:geocode] = "#{args[:long]},#{args[:lat]}"
       end
 
       if args[:query]
         param[:geocode] = args[:query]
       end
 
-      response = @downloader.get '/', param
+      response = @downloader.get PATH , param
       result   = JSON.parse(CGI::unescape response)
 
       result

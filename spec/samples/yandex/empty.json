@@ -1,0 +1,22 @@
+{"response": {
+    "GeoObjectCollection": {
+        "metaDataProperty": {
+            "GeocoderResponseMetaData": {
+                "request": "55.757962,37.611006",
+                "found": "0",
+                "results": "1",
+                "boundedBy": {
+                    "Envelope": {
+                        "lowerCorner": "55.755465 37.608506",
+                        "upperCorner": "55.760460 37.613508"
+                    }
+                },
+                "Point": {
+                    "pos": "55.757962 37.611006"
+                },
+                "kind": "house"
+            }
+        },
+        "featureMember": []
+    }
+}}

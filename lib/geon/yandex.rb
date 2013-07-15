@@ -1,11 +1,10 @@
 module Geon
   class Yandex
-    HOST = 'geocode-maps.yandex.ru/1.x'
+    HOST = 'geocode-maps.yandex.ru'
 
-    def initialize(key, args = {})
+    def initialize(args = {})
       loader = args[:loader] ? args[:loader] : HttpLoader.new(HOST)
       @api   = YandexApi.new(loader)
-
     end
 
     def forward(lat, long)
