@@ -11,8 +11,8 @@ module Geon
 
     end
 
-    def nearest_places(lat, long)
-      raw    = @api.place_getnearest(lat, long)
+    def nearest_places(lat, long, category = nil)
+      raw    = @api.place_getnearest(lat, long, category)
       places = raw['places']
 
       places

@@ -21,8 +21,12 @@ module Geon
     # @example
     # place_getnearest(55.753141,37.625299) #Red square
     #
-    def place_getnearest(lat, lon)
-      request 'place.getnearest', {lat: lat, lon: lon}
+    def place_getnearest(lat, lon, category)
+      if category
+        request 'place.getnearest', {lat: lat, lon: lon, category: category}
+      else
+        request 'place.getnearest', {lat: lat, lon: lon}
+      end
     end
 
     def place_search(q)
